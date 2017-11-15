@@ -1,0 +1,16 @@
+{
+    "name": "LPD8806",
+    "version": "1.0.0",
+    "keywords": "LPD8806",
+    "description": "LPD8806 RGB灯条驱动库（兼容 LPD8803/LPD8809）",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/LPD8806.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
